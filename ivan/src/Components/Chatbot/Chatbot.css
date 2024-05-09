@@ -1,0 +1,6 @@
+.chatbot {
+    position: fixed;
+    bottom: 20px; /* Adjust as needed */
+    right: 20px; /* Adjust as needed */
+    /* Additional styling for chatbot */
+  }

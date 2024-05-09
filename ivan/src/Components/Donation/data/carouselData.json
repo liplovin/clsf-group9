@@ -1,0 +1,29 @@
+{
+    "slides": [
+        {
+            "src": "src/Components/Donation/img/img1.jpg",
+            "alt": "Img 1 Carousel"
+        },
+        {
+            "src": "src/Components/Donation/img/img2.jpg",
+            "alt": "Img 2 Carousel"
+        },
+        {
+            "src": "src/Components/Donation/img/img3.jpg",
+            "alt": "Img 3 Carousel"
+        },
+        {
+            "src": "src/Components/Donation/img/img4.jpg",
+            "alt": "Img 4 Carousel"
+        },
+        {
+            "src": "src/Components/Donation/img/img5.jpg",
+            "alt": "Img 5 Carousel"
+        },
+        {
+            "src": "src/Components/Donation/img/img6.jpg",
+            "alt": "Img 6 Carousel"
+        }
+        
+    ]
+}

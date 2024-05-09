@@ -1,0 +1,49 @@
+/* App.css */
+
+/* Styles for the chat button */
+.chat-button-container {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+.chat-button {
+  width: 60px;
+  height: 60px;
+  background-color: #8023c2;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.chat-button:hover {
+  background-color: #581787;
+}
+
+.chat-button-icon {
+  width: 30px;
+  height: 30px;
+  color: white;
+}
+
+/* Styles for the chatbot container */
+.chatbot-container {
+  position: fixed;
+  bottom: 90px; 
+  right: 20px;
+}
+/*Chatbot Response- ID:7*/
+.contact-info {
+  background-color: f5f8fb;
+  box-shadow: none;
+  padding: 12px;
+  border-radius: 18px;
+}
+
+.contact-info p {
+  color: black;
+}
